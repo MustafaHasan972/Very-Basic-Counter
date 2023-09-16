@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.buttons {
+  display: inline;
+}
+
+#minus {
+  background-color: rgba(255, 0, 0, 0.7);
+  color: white;
+  border-radius: 10px;
+  font-size: 24px;
+  padding: 5px;
+  width: 40px;
+}
+
+#plus {
+  background-color: seagreen;
+  opacity: 0.8;
+  color: white;
+  border-radius: 10px;
+  font-size: 24px;
+  padding: 5px;
+  width: 40px;
+}
+
+#reset {
+  background-color: grey;
+  border-radius: 10px;
+  color: white;
+  font-size: 24px;
+  padding: 5px;
+}
